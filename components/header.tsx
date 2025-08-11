@@ -14,7 +14,7 @@ export default function Header() {
     { name: "Mapa", href: "/mapa" },
     {
       name: "GitHub",
-      href: "https://github.com/observafloresta",
+      href: "https://github.com/0157-0/radareco",
       external: true,
     },
   ];

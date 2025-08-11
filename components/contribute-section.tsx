@@ -46,7 +46,7 @@ export default function ContributeSection() {
             className="bg-white text-green-700 hover:bg-green-50"
           >
             <Link
-              href="https://github.com/observafloresta"
+              href="https://github.com/0157-0/radareco"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2"

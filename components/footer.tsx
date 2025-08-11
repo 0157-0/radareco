@@ -34,7 +34,7 @@ export default function Footer() {
                 Sobre o Projeto
               </Link>
               <Link
-                href="https://github.com/observafloresta"
+                href="https://github.com/0157-0/radareco"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block text-gray-300 hover:text-green-400 transition-colors"
@@ -48,7 +48,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Contato</h3>
             <div className="space-y-3">
               <Link
-                href="https://github.com/observafloresta"
+                href="https://github.com/0157-0/radareco"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-gray-300 hover:text-green-400 transition-colors"
